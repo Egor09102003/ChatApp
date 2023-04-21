@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "264626717063",
+    "firebase_url": "https://chatapp-cdc5f.firebaseio.com",
+    "project_id": "chatapp-cdc5f",
+    "storage_bucket": "chatapp-cdc5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264626717063:android:02414aba2e59940c",
+        "android_client_info": {
+          "package_name": "ru.baryshnikov.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264626717063-mqc50e08dnp3m6gvqn89g6iu1ttsld81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.baryshnikov.chatapp",
+            "certificate_hash": "d6e8956dfe3d83a6a58ef5e1b24dc62c3155554f"
+          }
+        },
+        {
+          "client_id": "264626717063-lvnlr0hlg932idp3aq84msp8f2671dtk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.baryshnikov.chatapp",
+            "certificate_hash": "0b3609eb4260116872166c5a318a1c6882ab5722"
+          }
+        },
+        {
+          "client_id": "264626717063-4du1fkc55ja7tr1vd6k51re0nbr26cp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYNH8CunKtqeyDXnzAG62QXqbm3fGnFaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264626717063-4du1fkc55ja7tr1vd6k51re0nbr26cp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
